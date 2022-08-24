@@ -1,0 +1,13 @@
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.deps.json
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.csproj.AssemblyReference.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.AssemblyInfoInputs.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.AssemblyInfo.cs
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.csproj.CoreCompileInputs.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.csproj.CopyComplete
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.pdb
