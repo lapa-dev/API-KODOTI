@@ -1,0 +1,15 @@
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.deps.json
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfo.cs
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CopyComplete

@@ -1,0 +1,10 @@
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\bin\Debug\netcoreapp3.1\Services.Common.Collection.deps.json
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\bin\Debug\netcoreapp3.1\Services.Common.Collection.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\bin\Debug\netcoreapp3.1\Services.Common.Collection.pdb
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.csproj.AssemblyReference.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.AssemblyInfoInputs.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.AssemblyInfo.cs
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.csproj.CoreCompileInputs.cache
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.dll
+F:\Repository\.net\KODOTI.commerce\src\Services\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.pdb
